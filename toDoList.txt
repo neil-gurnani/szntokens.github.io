@@ -1,0 +1,4 @@
+Action Items: 
+- Change OpenSea link to open SznTokens subpage on opensea 
+- Figure out react version of site / re configure it for thanksgiving / christmas 
+- 
