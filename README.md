@@ -1,6 +1,7 @@
 # SznTokens 
 
-PSYCH 223 Semester Project - SznTokens NFT Trading Platform (Landing Page)
+PSYCH 223 Semester Project - SznTokens NFT Trading Platform
+Landing Page & Interest Form for Emails
 
 # Project Member Names 
 Neil Gurnani (ngur@umich.edu) 
