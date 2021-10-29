@@ -1,4 +1,5 @@
 # Gitignore 
 
+.DS_Store
 DS_Store/
 VS_Code/
