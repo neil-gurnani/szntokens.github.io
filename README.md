@@ -1,6 +1,6 @@
 # SznTokens 
 
-PSYCH 223 Semester Project - SznTokens NFT Trading Platform
+Entrepreneurial Creativity (PSYCH 223) Semester Project - SznTokens NFT Trading Platform
 Landing Page & Interest Form for Emails
 
 # Project Member Names 
